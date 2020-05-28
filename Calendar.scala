@@ -9,8 +9,8 @@ case class Calendar(
                      friday: Int,
                      saturday: Int,
                      sunday: Int,
-                     startDate:String,
-                     endDate:String
+                     startDate:Int,
+                     endDate:Int
                    )
 
 object Calendar {
